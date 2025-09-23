@@ -1,5 +1,6 @@
 <!-- 상단 배너 -->
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=TaeHyun's%20GitHub&section=header&reversal=false&textBg=false&fontAlign=50&animation=fadeIn&descAlignY=0&desc=Hello%20World!)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:1abc9c,100:3498db&text=TaeHyun's%20GitHub&fontColor=ffffff&section=header&animation=fadeIn&desc=Hello%20World!&descColor=ffffff)
+
 
 <!-- 타이핑 효과 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Measure+twice%2C+cut+once.)](https://git.io/typing-svg)
