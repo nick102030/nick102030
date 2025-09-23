@@ -1,39 +1,5 @@
 <!-- 상단 배너 -->
-<!-- 상단 배너 (고정 그라데이션 + 라이트/다크 자동 폰트색) -->
-<picture>
-  <!-- 다크 모드: 흰 글자 -->
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://capsule-render.vercel.app/api
-      ?type=venom
-      &height=300
-      &color=0:1abc9c,100:3498db
-      &text=TaeHyun%27s%20GitHub
-      &fontColor=ffffff
-      &section=header
-      &animation=fadeIn
-      &desc=Hello%20World!
-      &descColor=ffffff"
-  />
-  <!-- 라이트 모드: 어두운 글자 -->
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://capsule-render.vercel.app/api
-      ?type=venom
-      &height=300
-      &color=0:1abc9c,100:3498db
-      &text=TaeHyun%27s%20GitHub
-      &fontColor=111111
-      &section=header
-      &animation=fadeIn
-      &desc=Hello%20World!
-      &descColor=222222"
-  />
-  <!-- 폴백(미지원 브라우저용, 다크 기준) -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:1abc9c,100:3498db&text=TaeHyun%27s%20GitHub&fontColor=ffffff&section=header&animation=fadeIn&desc=Hello%20World!&descColor=ffffff" />
-</picture>
-
-
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:e9d5ff,100:bae6fd&text=TaeHyun's%20GitHub&fontColor=ffb6b9&section=header&animation=fadeIn&desc=Hello%20World!&descColor=ffe5a3)
 
 <!-- 타이핑 효과 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Measure+twice%2C+cut+once.)](https://git.io/typing-svg)
@@ -76,9 +42,11 @@
 
 ## 🏆 Algorithm Profile
 <div align="center">
-  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nick102030)](https://solved.ac/nick102030)  
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=nick102030&theme=warm)
+
+  <a href="https://solved.ac/nick102030">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nick102030" height="150px"/>
+  </a>
+  <img src="http://mazandi.herokuapp.com/api?handle=nick102030&theme=warm" height="150px"/>
 
 </div>
 
