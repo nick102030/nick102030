@@ -1,5 +1,38 @@
 <!-- 상단 배너 -->
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:1abc9c,100:3498db&text=TaeHyun's%20GitHub&fontColor=ffffff&section=header&animation=fadeIn&desc=Hello%20World!&descColor=ffffff)
+<!-- 상단 배너 (고정 그라데이션 + 라이트/다크 자동 폰트색) -->
+<picture>
+  <!-- 다크 모드: 흰 글자 -->
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api
+      ?type=venom
+      &height=300
+      &color=0:1abc9c,100:3498db
+      &text=TaeHyun%27s%20GitHub
+      &fontColor=ffffff
+      &section=header
+      &animation=fadeIn
+      &desc=Hello%20World!
+      &descColor=ffffff"
+  />
+  <!-- 라이트 모드: 어두운 글자 -->
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api
+      ?type=venom
+      &height=300
+      &color=0:1abc9c,100:3498db
+      &text=TaeHyun%27s%20GitHub
+      &fontColor=111111
+      &section=header
+      &animation=fadeIn
+      &desc=Hello%20World!
+      &descColor=222222"
+  />
+  <!-- 폴백(미지원 브라우저용, 다크 기준) -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:1abc9c,100:3498db&text=TaeHyun%27s%20GitHub&fontColor=ffffff&section=header&animation=fadeIn&desc=Hello%20World!&descColor=ffffff" />
+</picture>
+
 
 
 <!-- 타이핑 효과 -->
