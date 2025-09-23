@@ -88,12 +88,6 @@
     <img alt="uos-tasting-note/backend"
          src="https://github-readme-stats.vercel.app/api/pin/?username=nick102030&repo=42seoul&theme=graywhite&hide_border=true"
          width="48%"/>
-  </a>
-  <a href="https://github.com/nick102030/9oormCinema">
-    <img alt="9oormCinema"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=nick102030&repo=42Seoul-home&theme=graywhite&hide_border=true"
-         width="48%"/>
-  </a>
 
 </div>
 
