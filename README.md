@@ -56,7 +56,7 @@
 <div align="center">
 
   <!-- 1행 -->
-  <a href="https://github.com/SEASONTHON">
+  <a href="https://github.com/9oormthon-univ/2025_SEASONTHON_TEAM_3_BE">
     <img alt="SEASONTHON"
          src="https://github-readme-stats.vercel.app/api/pin/?username=9oormthon-univ&repo=2025_SEASONTHON_TEAM_3_BE&theme=graywhite&hide_border=true"
          width="48%"/>
@@ -68,12 +68,12 @@
   </a>
 
   <!-- 2행 -->
-  <a href="https://github.com/nick102030/9oormCinema">
+  <a href="https://github.com/9oormCinema/9oormCinema-Backend">
     <img alt="9oormCinema"
          src="https://github-readme-stats.vercel.app/api/pin/?username=9oormCinema&repo=9oormCinema-Backend&theme=graywhite&hide_border=true"
          width="48%"/>
   </a>
-  <a href="https://github.com/nick102030/uos-tasting-note/backend">
+  <a href="https://github.com/uos-tasting-note/backend">
     <img alt="maegi_machug"
          src="https://github-readme-stats.vercel.app/api/pin/?username=uos-tasting-note&repo=backend&theme=graywhite&hide_border=true"
          width="48%"/>
