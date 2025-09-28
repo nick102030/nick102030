@@ -56,26 +56,26 @@
 <div align="center">
 
   <!-- 1행 -->
-  <a href="https://github.com/uos-tasting-note/backend">
-    <img alt="uos-tasting-note/backend"
+  <a href="https://github.com/SEASONTHON">
+    <img alt="SEASONTHON"
          src="https://github-readme-stats.vercel.app/api/pin/?username=9oormthon-univ&repo=2025_SEASONTHON_TEAM_3_BE&theme=graywhite&hide_border=true"
          width="48%"/>
   </a>
-  <a href="https://github.com/nick102030/9oormCinema">
-    <img alt="9oormCinema"
+  <a href="https://github.com/nick102030/Jolvre_BE">
+    <img alt="Jolvre_BE"
          src="https://github-readme-stats.vercel.app/api/pin/?username=nick102030&repo=Jolvre_BE&theme=graywhite&hide_border=true"
          width="48%"/>
   </a>
 
   <!-- 2행 -->
-  <a href="https://github.com/nick102030/SilverSnack">
-    <img alt="SilverSnack"
+  <a href="https://github.com/nick102030/9oormCinema">
+    <img alt="9oormCinema"
          src="https://github-readme-stats.vercel.app/api/pin/?username=9oormCinema&repo=9oormCinema-Backend&theme=graywhite&hide_border=true"
          width="48%"/>
   </a>
-  <a href="https://github.com/nick102030/tasting-note">
-    <img alt="tasting-note"
-         src="https://github-readme-stats.vercel.app/api/pin/?username=nick102030&repo=maegi_machugi&theme=graywhite&hide_border=true"
+  <a href="https://github.com/nick102030/uos-tasting-note/backend">
+    <img alt="maegi_machug"
+         src="https://github-readme-stats.vercel.app/api/pin/?username=uos-tasting-note&repo=backend&theme=graywhite&hide_border=true"
          width="48%"/>
   </a>
 
